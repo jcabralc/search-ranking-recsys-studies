@@ -3,14 +3,22 @@
 ## Learning to Rank
 
 ### Basics
-- [ ] Elasticsearch Learning to Rank documentation
-    - [ ] [Core Concepts](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/core-concepts.html)
-    - [ ] How does the Plugin fit in?
 - [ ] [What is Learning To Rank?](https://opensourceconnections.com/blog/2017/02/24/what-is-learning-to-rank/)
 - [ ] [How is search different than other machine learning problems?](https://opensourceconnections.com/blog/2017/08/03/search-as-machine-learning-prob/)
-
-### Blogs
+- [ ] [Elasticsearch Learning to Rank documentation](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/index.html)
+    - [x] [Core Concepts](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/core-concepts.html)
+    - [x] [How does the Plugin fit in?](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/fits-in.html)
+    - [x] [Working with Features](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/building-features.html)
+    - [x] [Feature Engineering](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/feature-engineering.html)
+    - [x] [Logging Feature Scores](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/logging-features.html)
+    - [x] [Uploading A Trained Model](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/training-models.html)
+    - [ ] [Searching with LTR](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/searching-with-your-model.html)
+    - [ ] [On XPack Support (Security)](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/x-pack.html)
+    - [ ] [Advanced Functionality](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/advanced-functionality.html)
+ 
+### Blogs Posts
 - [x] [Catarina Moreira - Machine Learning](http://web.ist.utl.pt/~catarina.p.moreira/machine_learning.html#LambdaMART)
+- [x] [Admittedly loopy but not entirely absurd—Understanding our Search Relevance Survey](https://diff.wikimedia.org/2017/09/19/search-relevance-survey/)
 
 ### Books
 - [ ] [Learning to Rank for Information Retrieval and Natural Language Processing - Hang Li](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
