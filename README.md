@@ -12,13 +12,15 @@
     - [x] [Feature Engineering](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/feature-engineering.html)
     - [x] [Logging Feature Scores](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/logging-features.html)
     - [x] [Uploading A Trained Model](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/training-models.html)
-    - [ ] [Searching with LTR](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/searching-with-your-model.html)
-    - [ ] [On XPack Support (Security)](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/x-pack.html)
+    - [x] [Searching with LTR](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/searching-with-your-model.html)
+    - [x] [On XPack Support (Security)](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/x-pack.html)
     - [ ] [Advanced Functionality](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/advanced-functionality.html)
+    - [ ] [FAQ](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/faq.html)
  
 ### Blogs Posts
 - [x] [Catarina Moreira - Machine Learning](http://web.ist.utl.pt/~catarina.p.moreira/machine_learning.html#LambdaMART)
 - [x] [Admittedly loopy but not entirely absurd—Understanding our Search Relevance Survey](https://diff.wikimedia.org/2017/09/19/search-relevance-survey/)
+- [x] [Learning to Rank using XGBoos](https://medium.com/predictly-on-tech/learning-to-rank-using-xgboost-83de0166229d) --- add no tutorial
 
 ### Books
 - [ ] [Learning to Rank for Information Retrieval and Natural Language Processing - Hang Li](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
