@@ -16,7 +16,7 @@
     - [x] [On XPack Support (Security)](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/x-pack.html)
     - [x] [Advanced Functionality](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/advanced-functionality.html)
     - [x] [FAQ](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/faq.html)
-- [ ] [Learning to Rank journey: the logbook](https://inside.getyourguide.com/blog/2018/9/21/relevant/learning-to-rank-journey-the-logbook)
+- [x] [Learning to Rank journey: the logbook](https://inside.getyourguide.com/blog/2018/9/21/relevant/learning-to-rank-journey-the-logbook)
 
 
 ### Blogs Posts
@@ -29,11 +29,17 @@
 
 ### Books
 - [x] [Learning to Rank for Information Retrieval and Natural Language Processing - Hang Li](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
+
+
 ### Papers
 - [ ] [Optimizing Search Engines using Clickthrough Data](https://www.cs.cornell.edu/people/tj/publications/joachims_02c.pdf)
 - [ ] [Towards Recency Ranking in Web Search](http://www.wsdm-conference.org/2010/proceedings/docs/p11.pdf)
+- [ ] [On Application of Learning to Rank for E-Commerce Search](https://arxiv.org/pdf/1903.04263.pdf)
+
+
 ### Presentations & Talks
 - [ ] [Berlin Buzzwords 17: Doug Turnbull & Jason Kowalewski - We built an Elasticsearch Learning to Rank.. [`Youtube`]](https://www.youtube.com/watch?v=JqqtWfZQUTU&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=6&ab_channel=PlainSchwarz)
+- [ ] [Berlin Buzzwords 2018: Felipe Besson – Learning to Rank journey at GetYourGuide: Our Logbook [`Youtube`]](https://www.youtube.com/watch?v=bZ3Z_rD2q1E&ab_channel=PlainSchwarz)
 ### Experiments
 - [ ] TheMovieDB
 - [ ]
