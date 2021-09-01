@@ -24,7 +24,6 @@
 - [x] [Admittedly loopy but not entirely absurd—Understanding our Search Relevance Survey](https://diff.wikimedia.org/2017/09/19/search-relevance-survey/)
 - [x] [Learning to Rank using XGBoost](https://medium.com/predictly-on-tech/learning-to-rank-using-xgboost-83de0166229d) --- add no tutorial
 - [x] [Learning to Rank 101](https://medium.com/@purbon/learning-to-rank-101-5755f2797a3a)
-- [ ] [From RankNet to LambdaRank to LambdaMART: An Overview](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf)
 - [x] [Intuitive explanation of Learning to Rank (and RankNet, LambdaRank and LambdaMART)](https://medium.com/@nikhilbd/intuitive-explanation-of-learning-to-rank-and-ranknet-lambdarank-and-lambdamart-fe1e17fac418)
 
 ### Books
@@ -34,16 +33,21 @@
 ### Papers
 - [ ] [Optimizing Search Engines using Clickthrough Data](https://www.cs.cornell.edu/people/tj/publications/joachims_02c.pdf)
 - [ ] [Towards Recency Ranking in Web Search](http://www.wsdm-conference.org/2010/proceedings/docs/p11.pdf)
-- [ ] [On Application of Learning to Rank for E-Commerce Search](https://arxiv.org/pdf/1903.04263.pdf)
+- [X] [On Application of Learning to Rank for E-Commerce Search](https://arxiv.org/pdf/1903.04263.pdf)
 - [ ] [Diversifying Search Results](microsoft.com/en-us/research/wp-content/uploads/2009/02/diversifying-wsdm09.pdf)
 - [ ] [Learning Latent Vector Spaces for Product Search](https://arxiv.org/pdf/1608.07253.pdf)
 - [ ] [Yahoo! Learning to Rank Challenge Overview](http://proceedings.mlr.press/v14/chapelle11a/chapelle11a.pdf)
-- 
+- [ ] [On the Usefulness of Query Features for Learning to Rank
+](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.255.6225&rep=rep1&type=pdf)
+- [ ] [From RankNet to LambdaRank to LambdaMART: An Overview](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf)
+- [ ] [Individual Comparisons by Ranking Methods](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/wilcoxon1945.pdf)
+- [ ] [Thee whens and hows of learning to rank for web search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.298.5217&rep=rep1&type=pdf)
 
 
 ### Presentations & Talks
 - [ ] [Berlin Buzzwords 17: Doug Turnbull & Jason Kowalewski - We built an Elasticsearch Learning to Rank.. [`Youtube`]](https://www.youtube.com/watch?v=JqqtWfZQUTU&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=6&ab_channel=PlainSchwarz)
 - [ ] [Berlin Buzzwords 2018: Felipe Besson – Learning to Rank journey at GetYourGuide: Our Logbook [`Youtube`]](https://www.youtube.com/watch?v=bZ3Z_rD2q1E&ab_channel=PlainSchwarz)
+- [ ] [DevConf - Learning "Learning to Rank" - Sophie Watson [`Youtube`]](https://www.youtube.com/watch?v=7teudGhdnqo&ab_channel=DevConf)
 
 ### Experiments
 - [ ] TheMovieDB
