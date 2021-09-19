@@ -25,6 +25,7 @@
 - [x] [Learning to Rank using XGBoost](https://medium.com/predictly-on-tech/learning-to-rank-using-xgboost-83de0166229d) --- add no tutorial
 - [x] [Learning to Rank 101](https://medium.com/@purbon/learning-to-rank-101-5755f2797a3a)
 - [x] [Intuitive explanation of Learning to Rank (and RankNet, LambdaRank and LambdaMART)](https://medium.com/@nikhilbd/intuitive-explanation-of-learning-to-rank-and-ranknet-lambdarank-and-lambdamart-fe1e17fac418)
+- [x] [Machine Learning-Powered Search Ranking of Airbnb Experiences](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
 
 ### Books
 - [x] [Learning to Rank for Information Retrieval and Natural Language Processing - Hang Li](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
@@ -48,6 +49,7 @@
 - [ ] [Berlin Buzzwords 17: Doug Turnbull & Jason Kowalewski - We built an Elasticsearch Learning to Rank.. [`Youtube`]](https://www.youtube.com/watch?v=JqqtWfZQUTU&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=6&ab_channel=PlainSchwarz)
 - [ ] [Berlin Buzzwords 2018: Felipe Besson – Learning to Rank journey at GetYourGuide: Our Logbook [`Youtube`]](https://www.youtube.com/watch?v=bZ3Z_rD2q1E&ab_channel=PlainSchwarz)
 - [ ] [DevConf - Learning "Learning to Rank" - Sophie Watson [`Youtube`]](https://www.youtube.com/watch?v=7teudGhdnqo&ab_channel=DevConf)
+- [X] [PyData Tel Aviv Meetup: Learning To Rank - Uriel Vinetz [`Youtube`]](https://www.youtube.com/watch?v=_GDuUwhvCK0&ab_channel=PyData)]
 
 ### Experiments
 - [ ] TheMovieDB
@@ -59,6 +61,7 @@
 
 ### Blogs Posts
 - [x] [Inside our recommender system: Data pipeline execution and monitoring](https://inside.getyourguide.com/blog/2020/7/8/recommender-systems-pipeline-monitoring-getyourguide)
+- [ ] [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
 
 ### Presentations & Talks
 - [ ] The ACM Conference Series on Recommender Systems
