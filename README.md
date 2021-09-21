@@ -17,6 +17,7 @@
     - [x] [Advanced Functionality](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/advanced-functionality.html)
     - [x] [FAQ](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/faq.html)
 - [x] [Learning to Rank journey: the logbook](https://inside.getyourguide.com/blog/2018/9/21/relevant/learning-to-rank-journey-the-logbook)
+- [x] [Evaluation Metrics for Ranking problems: Introduction and Examples](https://queirozf.com/entries/evaluation-metrics-for-ranking-problems-introduction-and-examples)
 
 
 ### Blogs Posts
@@ -43,18 +44,19 @@
 - [ ] [From RankNet to LambdaRank to LambdaMART: An Overview](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf)
 - [ ] [Individual Comparisons by Ranking Methods](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/wilcoxon1945.pdf)
 - [ ] [Thee whens and hows of learning to rank for web search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.298.5217&rep=rep1&type=pdf)
+- [x] [Assignment 2 -Group 95 [`Kaggle - Expedia Hotel Recommendations`]](https://static.abijith.net/DMT.pdf)
 
 
 ### Presentations & Talks
-- [ ] [Berlin Buzzwords 17: Doug Turnbull & Jason Kowalewski - We built an Elasticsearch Learning to Rank.. [`Youtube`]](https://www.youtube.com/watch?v=JqqtWfZQUTU&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=6&ab_channel=PlainSchwarz)
+- [ ] [Berlin Buzzwords 17: Doug Turnbull & Jason Kowalewski - We built an Elasticsearch Learning to Rank [`Youtube`]](https://www.youtube.com/watch?v=JqqtWfZQUTU&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=6&ab_channel=PlainSchwarz)
 - [ ] [Berlin Buzzwords 2018: Felipe Besson – Learning to Rank journey at GetYourGuide: Our Logbook [`Youtube`]](https://www.youtube.com/watch?v=bZ3Z_rD2q1E&ab_channel=PlainSchwarz)
 - [ ] [DevConf - Learning "Learning to Rank" - Sophie Watson [`Youtube`]](https://www.youtube.com/watch?v=7teudGhdnqo&ab_channel=DevConf)
 - [X] [PyData Tel Aviv Meetup: Learning To Rank - Uriel Vinetz [`Youtube`]](https://www.youtube.com/watch?v=_GDuUwhvCK0&ab_channel=PyData)]
 
 ### Experiments
 - [ ] TheMovieDB
-- [ ] 
-- [ ] 
+- [ ] Expedia Hotel Recommendations
+- [ ] Home Depot Product Search Relevance
 
 
 ## Recommendation System
