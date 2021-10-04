@@ -18,6 +18,8 @@
     - [x] [FAQ](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/faq.html)
 - [x] [Learning to Rank journey: the logbook](https://inside.getyourguide.com/blog/2018/9/21/relevant/learning-to-rank-journey-the-logbook)
 - [x] [Evaluation Metrics for Ranking problems: Introduction and Examples](https://queirozf.com/entries/evaluation-metrics-for-ranking-problems-introduction-and-examples)
+- [x] [MRR vs MAP vs NDCG: Rank-Aware Evaluation Metrics And When To Use Them](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
+- [x] [Evaluate your Recommendation Engine using NDCG](https://towardsdatascience.com/evaluate-your-recommendation-engine-using-ndcg-759a851452d1)
 
 
 ### Blogs Posts
