@@ -25,7 +25,7 @@
 ### Blogs Posts
 - [x] [Catarina Moreira - Machine Learning](http://web.ist.utl.pt/~catarina.p.moreira/machine_learning.html#LambdaMART)
 - [x] [Admittedly loopy but not entirely absurd—Understanding our Search Relevance Survey](https://diff.wikimedia.org/2017/09/19/search-relevance-survey/)
-- [x] [Learning to Rank using XGBoost](https://medium.com/predictly-on-tech/learning-to-rank-using-xgboost-83de0166229d) --- add no tutorial
+- [x] [Learning to Rank using XGBoost](https://medium.com/predictly-on-tech/learning-to-rank-using-xgboost-83de0166229d)
 - [x] [Learning to Rank 101](https://medium.com/@purbon/learning-to-rank-101-5755f2797a3a)
 - [x] [Intuitive explanation of Learning to Rank (and RankNet, LambdaRank and LambdaMART)](https://medium.com/@nikhilbd/intuitive-explanation-of-learning-to-rank-and-ranknet-lambdarank-and-lambdamart-fe1e17fac418)
 - [x] [Machine Learning-Powered Search Ranking of Airbnb Experiences](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
@@ -47,6 +47,9 @@
 - [ ] [Individual Comparisons by Ranking Methods](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/wilcoxon1945.pdf)
 - [ ] [Thee whens and hows of learning to rank for web search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.298.5217&rep=rep1&type=pdf)
 - [x] [Assignment 2 -Group 95 [`Kaggle - Expedia Hotel Recommendations`]](https://static.abijith.net/DMT.pdf)
+- [ ] [Learning to Rank by Optimizing NDCG Measure](https://proceedings.neurips.cc/paper/2009/file/b3967a0e938dc2a6340e258630febd5a-Paper.pdf)
+- [ ] [Ranking Measures and Loss Functions in Learning to Rank](https://proceedings.neurips.cc/paper/2009/file/2f55707d4193dc27118a0f19a1985716-Paper.pdf)
+- 
 
 
 ### Presentations & Talks
@@ -54,11 +57,14 @@
 - [ ] [Berlin Buzzwords 2018: Felipe Besson – Learning to Rank journey at GetYourGuide: Our Logbook [`Youtube`]](https://www.youtube.com/watch?v=bZ3Z_rD2q1E&ab_channel=PlainSchwarz)
 - [ ] [DevConf - Learning "Learning to Rank" - Sophie Watson [`Youtube`]](https://www.youtube.com/watch?v=7teudGhdnqo&ab_channel=DevConf)
 - [X] [PyData Tel Aviv Meetup: Learning To Rank - Uriel Vinetz [`Youtube`]](https://www.youtube.com/watch?v=_GDuUwhvCK0&ab_channel=PyData)]
+- [X] [Learning to Rank Places [`Slides`]](https://prof.bht-berlin.de/fileadmin/prof/aloeser/shuaib_ltr_places_defence.pdf)
 
 ### Experiments
 - [ ] TheMovieDB
 - [ ] Expedia Hotel Recommendations
 - [ ] Home Depot Product Search Relevance
+- [ ] [Spotify's Worldwide Daily Song Ranking](https://www.kaggle.com/edumucelli/spotifys-worldwide-daily-song-ranking)
+    - [X] [A Learning to Rank Project on a Daily Song Ranking Problem](https://sease.io/2020/12/a-learning-to-rank-project-on-a-daily-song-ranking-problem.html)
 
 
 ## Recommendation System
