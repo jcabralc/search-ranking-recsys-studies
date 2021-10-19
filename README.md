@@ -29,6 +29,8 @@
 - [x] [Learning to Rank 101](https://medium.com/@purbon/learning-to-rank-101-5755f2797a3a)
 - [x] [Intuitive explanation of Learning to Rank (and RankNet, LambdaRank and LambdaMART)](https://medium.com/@nikhilbd/intuitive-explanation-of-learning-to-rank-and-ranknet-lambdarank-and-lambdamart-fe1e17fac418)
 - [x] [Machine Learning-Powered Search Ranking of Airbnb Experiences](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
+- [x] [The Importance of Online Testing in Learning to Rank – Part 1](https://sease.io/2020/04/the-importance-of-online-testing-in-learning-to-rank-part-1.html)
+- [x] [Online Testing for Learning To Rank: Interleaving](https://sease.io/2020/05/online-testing-for-learning-to-rank-interleaving.html)
 
 ### Books
 - [x] [Learning to Rank for Information Retrieval and Natural Language Processing - Hang Li](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
