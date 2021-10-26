@@ -1,5 +1,25 @@
 ## Search & Ranking & Recommendation Studies
 
+My journey in learning about Search & ranking universe, and with this, become better at data science every day
+
+# Search & Ranking 
+
+### Basics
+- [x] [Clicks in search](https://hughewilliams.com/2012/04/12/clicks-in-search/)
+### Metrics
+- [x] [Evaluation Metrics for Ranking problems: Introduction and Examples](https://queirozf.com/entries/evaluation-metrics-for-ranking-problems-introduction-and-examples)
+- [x] [MRR vs MAP vs NDCG: Rank-Aware Evaluation Metrics And When To Use Them](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
+- [x] [Evaluate your Recommendation Engine using NDCG](https://towardsdatascience.com/evaluate-your-recommendation-engine-using-ndcg-759a851452d1)
+- [x] [Measuring Search Relevance](https://hughewilliams.com/2014/10/11/measuring-search-relevance/)
+
+### Industries Examples
+- [Ranking at eBay [`Old but still good`]]
+    - [x] [Part #1] (https://hughewilliams.com/2012/04/19/ranking-at-ebay-part-1/)
+    - [x] [Part #2] (https://hughewilliams.com/2012/04/28/ranking-at-ebay-part-2/)
+    - [x] [Part #3] (https://hughewilliams.com/2012/05/15/ranking-at-ebay-part-3/)
+- [x] [eBay Makes Promoted Listings in Search Results More Relevant and Dynamic](https://tech.ebayinc.com/product/ebay-makes-promoted-listings-in-search-results-more-relevant-and-dynamic/)
+- [x] [eBay Makes Search More Efficient Through Personalization](https://tech.ebayinc.com/product/ebay-makes-search-more-efficient-through-personalization/)
+
 ## Learning to Rank
 
 ### Basics
@@ -17,9 +37,7 @@
     - [x] [Advanced Functionality](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/advanced-functionality.html)
     - [x] [FAQ](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/faq.html)
 - [x] [Learning to Rank journey: the logbook](https://inside.getyourguide.com/blog/2018/9/21/relevant/learning-to-rank-journey-the-logbook)
-- [x] [Evaluation Metrics for Ranking problems: Introduction and Examples](https://queirozf.com/entries/evaluation-metrics-for-ranking-problems-introduction-and-examples)
-- [x] [MRR vs MAP vs NDCG: Rank-Aware Evaluation Metrics And When To Use Them](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
-- [x] [Evaluate your Recommendation Engine using NDCG](https://towardsdatascience.com/evaluate-your-recommendation-engine-using-ndcg-759a851452d1)
+
 
 
 ### Blogs Posts
@@ -31,6 +49,7 @@
 - [x] [Machine Learning-Powered Search Ranking of Airbnb Experiences](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
 - [x] [The Importance of Online Testing in Learning to Rank – Part 1](https://sease.io/2020/04/the-importance-of-online-testing-in-learning-to-rank-part-1.html)
 - [x] [Online Testing for Learning To Rank: Interleaving](https://sease.io/2020/05/online-testing-for-learning-to-rank-interleaving.html)
+
 
 ### Books
 - [x] [Learning to Rank for Information Retrieval and Natural Language Processing - Hang Li](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
@@ -69,7 +88,7 @@
     - [X] [A Learning to Rank Project on a Daily Song Ranking Problem](https://sease.io/2020/12/a-learning-to-rank-project-on-a-daily-song-ranking-problem.html)
 
 
-## Recommendation System
+# Recommendation System
 
 ### Blogs Posts
 - [x] [Inside our recommender system: Data pipeline execution and monitoring](https://inside.getyourguide.com/blog/2020/7/8/recommender-systems-pipeline-monitoring-getyourguide)
