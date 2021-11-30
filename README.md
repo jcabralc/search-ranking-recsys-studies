@@ -13,14 +13,14 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [x] [Measuring Search Relevance](https://hughewilliams.com/2014/10/11/measuring-search-relevance/)
 
 ### Industries Examples
-- [Ranking at eBay [`Old but still good`]]
+- Ranking at eBay [`Old but still good`]
     - [x] [Part #1] (https://hughewilliams.com/2012/04/19/ranking-at-ebay-part-1/)
     - [x] [Part #2] (https://hughewilliams.com/2012/04/28/ranking-at-ebay-part-2/)
     - [x] [Part #3] (https://hughewilliams.com/2012/05/15/ranking-at-ebay-part-3/)
 - [x] [eBay Makes Promoted Listings in Search Results More Relevant and Dynamic](https://tech.ebayinc.com/product/ebay-makes-promoted-listings-in-search-results-more-relevant-and-dynamic/)
 - [x] [eBay Makes Search More Efficient Through Personalization](https://tech.ebayinc.com/product/ebay-makes-search-more-efficient-through-personalization/)
 
-## Learning to Rank
+## Ranking
 
 ### Basics
 - [ ] [What is Learning To Rank?](https://opensourceconnections.com/blog/2017/02/24/what-is-learning-to-rank/)
@@ -70,7 +70,8 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [x] [Assignment 2 -Group 95 [`Kaggle - Expedia Hotel Recommendations`]](https://static.abijith.net/DMT.pdf)
 - [ ] [Learning to Rank by Optimizing NDCG Measure](https://proceedings.neurips.cc/paper/2009/file/b3967a0e938dc2a6340e258630febd5a-Paper.pdf)
 - [ ] [Ranking Measures and Loss Functions in Learning to Rank](https://proceedings.neurips.cc/paper/2009/file/2f55707d4193dc27118a0f19a1985716-Paper.pdf)
-- 
+- [ ] [Debiased Explainable Pairwise Ranking from Implicit Feedback](https://arxiv.org/pdf/2107.14768.pdf)
+- [ ] [Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality](https://arxiv.org/pdf/2107.13876.pdf)
 
 
 ### Presentations & Talks
@@ -97,3 +98,4 @@ My journey in learning about Search & ranking universe, and with this, become be
 ### Presentations & Talks
 - [ ] The ACM Conference Series on Recommender Systems
     - [ ] [RecSys 2020 [`Youtube`]](https://www.youtube.com/watch?v=Xm0uUu3RZDM&list=PLaZufLfJumb-cVIEsyg4CFocuq4WsvjED&ab_channel=ACMRecSys)
+- [ ] [An Approach to Data Quality for Netflix Personalization Systems [`Youtube`]](https://www.youtube.com/watch?v=t7vHpA39TXM) `2020`
