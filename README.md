@@ -13,12 +13,12 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [x] [Measuring Search Relevance](https://hughewilliams.com/2014/10/11/measuring-search-relevance/)
 
 ### Industries Examples
-- Ranking at eBay [`Old but still good`]
+- Ranking at eBay `eBay` [`Old but still good`]
     - [x] [Part #1] (https://hughewilliams.com/2012/04/19/ranking-at-ebay-part-1/)
     - [x] [Part #2] (https://hughewilliams.com/2012/04/28/ranking-at-ebay-part-2/)
     - [x] [Part #3] (https://hughewilliams.com/2012/05/15/ranking-at-ebay-part-3/)
-- [x] [eBay Makes Promoted Listings in Search Results More Relevant and Dynamic](https://tech.ebayinc.com/product/ebay-makes-promoted-listings-in-search-results-more-relevant-and-dynamic/)
-- [x] [eBay Makes Search More Efficient Through Personalization](https://tech.ebayinc.com/product/ebay-makes-search-more-efficient-through-personalization/)
+- [x] [eBay Makes Promoted Listings in Search Results More Relevant and Dynamic](https://tech.ebayinc.com/product/ebay-makes-promoted-listings-in-search-results-more-relevant-and-dynamic/) `eBay`
+- [x] [eBay Makes Search More Efficient Through Personalization](https://tech.ebayinc.com/product/ebay-makes-search-more-efficient-through-personalization/) `eBay`
 
 ## Ranking
 
@@ -75,10 +75,10 @@ My journey in learning about Search & ranking universe, and with this, become be
 
 
 ### Presentations & Talks
-- [ ] [Berlin Buzzwords 17: Doug Turnbull & Jason Kowalewski - We built an Elasticsearch Learning to Rank [`Youtube`]](https://www.youtube.com/watch?v=JqqtWfZQUTU&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=6&ab_channel=PlainSchwarz)
-- [ ] [Berlin Buzzwords 2018: Felipe Besson – Learning to Rank journey at GetYourGuide: Our Logbook [`Youtube`]](https://www.youtube.com/watch?v=bZ3Z_rD2q1E&ab_channel=PlainSchwarz)
-- [ ] [DevConf - Learning "Learning to Rank" - Sophie Watson [`Youtube`]](https://www.youtube.com/watch?v=7teudGhdnqo&ab_channel=DevConf)
-- [X] [PyData Tel Aviv Meetup: Learning To Rank - Uriel Vinetz [`Youtube`]](https://www.youtube.com/watch?v=_GDuUwhvCK0&ab_channel=PyData)]
+- [ ] [Berlin Buzzwords 17: Doug Turnbull & Jason Kowalewski - We built an Elasticsearch Learning to Rank](https://www.youtube.com/watch?v=JqqtWfZQUTU&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=6&ab_channel=PlainSchwarz)
+- [ ] [Berlin Buzzwords 2018: Felipe Besson – Learning to Rank journey at GetYourGuide: Our Logbook](https://www.youtube.com/watch?v=bZ3Z_rD2q1E&ab_channel=PlainSchwarz)
+- [ ] [DevConf - Learning "Learning to Rank" - Sophie Watson](https://www.youtube.com/watch?v=7teudGhdnqo&ab_channel=DevConf)
+- [X] [PyData Tel Aviv Meetup: Learning To Rank - Uriel Vinetz](https://www.youtube.com/watch?v=_GDuUwhvCK0&ab_channel=PyData)]
 - [X] [Learning to Rank Places [`Slides`]](https://prof.bht-berlin.de/fileadmin/prof/aloeser/shuaib_ltr_places_defence.pdf)
 
 ### Experiments
@@ -97,5 +97,5 @@ My journey in learning about Search & ranking universe, and with this, become be
 
 ### Presentations & Talks
 - [ ] The ACM Conference Series on Recommender Systems
-    - [ ] [RecSys 2020 [`Youtube`]](https://www.youtube.com/watch?v=Xm0uUu3RZDM&list=PLaZufLfJumb-cVIEsyg4CFocuq4WsvjED&ab_channel=ACMRecSys)
-- [ ] [An Approach to Data Quality for Netflix Personalization Systems [`Youtube`]](https://www.youtube.com/watch?v=t7vHpA39TXM) `2020`
+    - [ ] [RecSys 2020](https://www.youtube.com/watch?v=Xm0uUu3RZDM&list=PLaZufLfJumb-cVIEsyg4CFocuq4WsvjED&ab_channel=ACMRecSys)
+- [X] [An Approach to Data Quality for Netflix Personalization Systems](https://www.youtube.com/watch?v=t7vHpA39TXM) `Netflix` `2020`
