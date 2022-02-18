@@ -6,17 +6,20 @@ My journey in learning about Search & ranking universe, and with this, become be
 
 ### Basics
 - [x] [Clicks in search](https://hughewilliams.com/2012/04/12/clicks-in-search/)
+- [x] [Ranking vs. Relevance](https://dtunkelang.medium.com/ranking-vs-relevance-ba672c79625e)
+
 ### Metrics
 - [x] [Evaluation Metrics for Ranking problems: Introduction and Examples](https://queirozf.com/entries/evaluation-metrics-for-ranking-problems-introduction-and-examples)
 - [x] [MRR vs MAP vs NDCG: Rank-Aware Evaluation Metrics And When To Use Them](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
 - [x] [Evaluate your Recommendation Engine using NDCG](https://towardsdatascience.com/evaluate-your-recommendation-engine-using-ndcg-759a851452d1)
 - [x] [Measuring Search Relevance](https://hughewilliams.com/2014/10/11/measuring-search-relevance/)
+- [ ] [Ranking Evaluation Metrics for Recommender Systems](https://towardsdatascience.com/ranking-evaluation-metrics-for-recommender-systems-263d0a66ef54)
 
 ### Industries Examples
 - Ranking at eBay `eBay` [`Old but still good`]
-    - [x] [Part #1] (https://hughewilliams.com/2012/04/19/ranking-at-ebay-part-1/)
-    - [x] [Part #2] (https://hughewilliams.com/2012/04/28/ranking-at-ebay-part-2/)
-    - [x] [Part #3] (https://hughewilliams.com/2012/05/15/ranking-at-ebay-part-3/)
+    - [x] [Part #1](https://hughewilliams.com/2012/04/19/ranking-at-ebay-part-1/)
+    - [x] [Part #2](https://hughewilliams.com/2012/04/28/ranking-at-ebay-part-2/)
+    - [x] [Part #3](https://hughewilliams.com/2012/05/15/ranking-at-ebay-part-3/)
 - [x] [eBay Makes Promoted Listings in Search Results More Relevant and Dynamic](https://tech.ebayinc.com/product/ebay-makes-promoted-listings-in-search-results-more-relevant-and-dynamic/) `eBay`
 - [x] [eBay Makes Search More Efficient Through Personalization](https://tech.ebayinc.com/product/ebay-makes-search-more-efficient-through-personalization/) `eBay`
 
@@ -91,9 +94,33 @@ My journey in learning about Search & ranking universe, and with this, become be
 
 # Recommendation System
 
+### Courses
+- [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
+- [ ] [Youtube: Learning to Rank: From Theory to Production - Malvina Josephidou & Diego Ceccarelli, Bloomberg](https://www.youtube.com/watch?v=eMuepJpjUjI&ab_channel=Lucidworks)
+- [ ] [Youtube: Learning "Learning to Rank" - Sophie Watson [DevCon 2019]](https://www.youtube.com/watch?v=7teudGhdnqo&ab_channel=DevConf)
+- [ ] [Youtube: Learning to rank search results - Byron Voorbach & Jettro Coenradie [DevCon 2018]](https://www.youtube.com/watch?v=TG7aNLgzIcM&ab_channel=Luminis)
+- [ ] [Udemy: Building Recommender Systems with Machine Learning and AI](https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/)
+- [ ] [Udemy: Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/)
+- [ ] [Coursera: Recommender Systems](https://pt.coursera.org/specializations/recommender-systems) 
+- [X] [Stanford University: Mining of Massive Datasets (CS246) - Recommendarion and Dimensionality Reduction Chapters](http://www.mmds.org/)
+
 ### Blogs Posts
 - [x] [Inside our recommender system: Data pipeline execution and monitoring](https://inside.getyourguide.com/blog/2020/7/8/recommender-systems-pipeline-monitoring-getyourguide)
 - [ ] [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
+- [ ] [Stitching together spaces for query-based recommendations](https://multithreaded.stitchfix.com/blog/2021/08/13/stitching-together-spaces-for-query-based-recommendations/)
+- [X] [A Complete Guide To Recommender Systems — Tutorial with Sklearn, Surprise, Keras, Recommenders](https://towardsdatascience.com/a-complete-guide-to-recommender-system-tutorial-with-sklearn-surprise-keras-recommender-5e52e8ceace1)
+- [X] [Intro to Recommender Systems: Collaborative Filtering](https://www.ethanrosenthal.com/2015/11/02/intro-to-collaborative-filtering/)
+
+
+### Books
+- [ ] [CS246 Book - Stanford University - 3rd edition - Chapter 9
+Recommendation Systems](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
+- [ ] [CS246 Book - Stanford University - 3rd edition - Chapter 11
+Dimensionality Reduction](http://infolab.stanford.edu/~ullman/mmds/ch11.pdf)
+
+### Papers
+- [ ] [Latent Factor Models for Recommender Systems and Market
+Segmentation Through Clustering](https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1491255524283942&disposition=inline#:~:text=Recommender%20systems%20were%20introduced%20to,mendations%20on%20products%20or%20services.&text=Latent%20factor%20models%20factorize%20user,user%20and%20item%20feature%20vectors.)
 
 ### Presentations & Talks
 - [ ] The ACM Conference Series on Recommender Systems
