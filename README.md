@@ -126,3 +126,4 @@ Segmentation Through Clustering](https://etd.ohiolink.edu/apexprod/rws_etd/send_
 - [ ] The ACM Conference Series on Recommender Systems
     - [ ] [RecSys 2020](https://www.youtube.com/watch?v=Xm0uUu3RZDM&list=PLaZufLfJumb-cVIEsyg4CFocuq4WsvjED&ab_channel=ACMRecSys)
 - [X] [An Approach to Data Quality for Netflix Personalization Systems](https://www.youtube.com/watch?v=t7vHpA39TXM) `Netflix` `2020`
+- [X] `Meetup` [[Meetup com a Globo] Uso da Recomendação e Experimentação na Globo](https://www.youtube.com/watch?v=3iXXTYZqgtQ&ab_channel=MulheresemIA)
