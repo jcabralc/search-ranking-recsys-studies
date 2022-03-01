@@ -75,7 +75,7 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [Ranking Measures and Loss Functions in Learning to Rank](https://proceedings.neurips.cc/paper/2009/file/2f55707d4193dc27118a0f19a1985716-Paper.pdf)
 - [ ] [Debiased Explainable Pairwise Ranking from Implicit Feedback](https://arxiv.org/pdf/2107.14768.pdf)
 - [ ] [Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality](https://arxiv.org/pdf/2107.13876.pdf)
-
+ 
 
 ### Presentations & Talks
 - [ ] [Berlin Buzzwords 17: Doug Turnbull & Jason Kowalewski - We built an Elasticsearch Learning to Rank](https://www.youtube.com/watch?v=JqqtWfZQUTU&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=6&ab_channel=PlainSchwarz)
@@ -83,6 +83,14 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [DevConf - Learning "Learning to Rank" - Sophie Watson](https://www.youtube.com/watch?v=7teudGhdnqo&ab_channel=DevConf)
 - [X] [PyData Tel Aviv Meetup: Learning To Rank - Uriel Vinetz](https://www.youtube.com/watch?v=_GDuUwhvCK0&ab_channel=PyData)]
 - [X] [Learning to Rank Places [`Slides`]](https://prof.bht-berlin.de/fileadmin/prof/aloeser/shuaib_ltr_places_defence.pdf)
+- [KDD 2020: Hands-onTutorials: Deep Learning for Search and Recommender Systems in Practice](https://sites.google.com/view/kdd20tutorial-deepsnr) `LinkedIn` `2020`
+    - [X] [Part 1](https://www.youtube.com/watch?v=q6yF0It2ubk&ab_channel=AssociationforComputingMachinery%28ACM%29)
+    - [X] [Part 2](https://www.youtube.com/watch?v=KFvl0uCdKjE&ab_channel=AssociationforComputingMachinery%28ACM%29)
+    - [ ] [Part 3](https://www.youtube.com/watch?v=HVhCDCDcGRw&ab_channel=AssociationforComputingMachinery%28ACM%29)
+    - [ ] [Part 4](https://www.youtube.com/watch?v=F4D08uU3mPA&ab_channel=AssociationforComputingMachinery%28ACM%29)
+    - [ ] [Part 5](https://www.youtube.com/watch?v=FYil7LtpyN0&ab_channel=AssociationforComputingMachinery%28ACM%29)
+    - [ ] [Part 6](https://www.youtube.com/watch?v=kJCnX2xTwFE&ab_channel=AssociationforComputingMachinery%28ACM%29)
+
 
 ### Experiments
 - [ ] TheMovieDB
