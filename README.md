@@ -52,6 +52,7 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [x] [Machine Learning-Powered Search Ranking of Airbnb Experiences](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
 - [x] [The Importance of Online Testing in Learning to Rank – Part 1](https://sease.io/2020/04/the-importance-of-online-testing-in-learning-to-rank-part-1.html)
 - [x] [Online Testing for Learning To Rank: Interleaving](https://sease.io/2020/05/online-testing-for-learning-to-rank-interleaving.html)
+- [ ] [Text similarity search with vector fields](https://www.elastic.co/blog/text-similarity-search-with-vectors-in-elasticsearch) `ElasticSearch`
 
 
 ### Books
@@ -86,7 +87,7 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [KDD 2020: Hands-onTutorials: Deep Learning for Search and Recommender Systems in Practice](https://sites.google.com/view/kdd20tutorial-deepsnr) `LinkedIn` `2020`
     - [X] [Part 1](https://www.youtube.com/watch?v=q6yF0It2ubk&ab_channel=AssociationforComputingMachinery%28ACM%29)
     - [X] [Part 2](https://www.youtube.com/watch?v=KFvl0uCdKjE&ab_channel=AssociationforComputingMachinery%28ACM%29)
-    - [ ] [Part 3](https://www.youtube.com/watch?v=HVhCDCDcGRw&ab_channel=AssociationforComputingMachinery%28ACM%29)
+    - [X] [Part 3](https://www.youtube.com/watch?v=HVhCDCDcGRw&ab_channel=AssociationforComputingMachinery%28ACM%29)
     - [ ] [Part 4](https://www.youtube.com/watch?v=F4D08uU3mPA&ab_channel=AssociationforComputingMachinery%28ACM%29)
     - [ ] [Part 5](https://www.youtube.com/watch?v=FYil7LtpyN0&ab_channel=AssociationforComputingMachinery%28ACM%29)
     - [ ] [Part 6](https://www.youtube.com/watch?v=kJCnX2xTwFE&ab_channel=AssociationforComputingMachinery%28ACM%29)
@@ -118,6 +119,7 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [Stitching together spaces for query-based recommendations](https://multithreaded.stitchfix.com/blog/2021/08/13/stitching-together-spaces-for-query-based-recommendations/)
 - [X] [A Complete Guide To Recommender Systems — Tutorial with Sklearn, Surprise, Keras, Recommenders](https://towardsdatascience.com/a-complete-guide-to-recommender-system-tutorial-with-sklearn-surprise-keras-recommender-5e52e8ceace1)
 - [X] [Intro to Recommender Systems: Collaborative Filtering](https://www.ethanrosenthal.com/2015/11/02/intro-to-collaborative-filtering/)
+- [X] [Comprehensive Guide To Approximate Nearest Neighbors Algorithms](https://towardsdatascience.com/comprehensive-guide-to-approximate-nearest-neighbors-algorithms-8b94f057d6b6)
 
 
 ### Books
