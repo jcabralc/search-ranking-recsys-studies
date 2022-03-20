@@ -53,6 +53,9 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [x] [The Importance of Online Testing in Learning to Rank – Part 1](https://sease.io/2020/04/the-importance-of-online-testing-in-learning-to-rank-part-1.html)
 - [x] [Online Testing for Learning To Rank: Interleaving](https://sease.io/2020/05/online-testing-for-learning-to-rank-interleaving.html)
 - [ ] [Text similarity search with vector fields](https://www.elastic.co/blog/text-similarity-search-with-vectors-in-elasticsearch) `ElasticSearch`
+- [ ] [Siamese BERT-based Model for Web Search Relevance Ranking](https://arxiv.org/abs/2112.01810) ([Code](https://github.com/seznam/DaReCzech)) `Seznam` `2021`
+- [ ] [SearchSage: Learning Search Query Representations at Pinterest](https://medium.com/pinterest-engineering/searchsage-learning-search-query-representations-at-pinterest-654f2bb887fc) `Pinterest` `2021`
+- [ ] [Search Journey Towards Better Experimentation Practices](https://engineering.atspotify.com/2022/02/search-journey-towards-better-experimentation-practices/) `Spotify` `2022`
 
 
 ### Books
@@ -114,12 +117,16 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [X] [Stanford University: Mining of Massive Datasets (CS246) - Recommendarion and Dimensionality Reduction Chapters](http://www.mmds.org/)
 
 ### Blogs Posts
+- [ ] [Amazon.com Recommendations: Item-to-Item Collaborative Filtering](https://ieeexplore.ieee.org/document/1167344) ([Paper](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)) `Amazon` `2003`
 - [x] [Inside our recommender system: Data pipeline execution and monitoring](https://inside.getyourguide.com/blog/2020/7/8/recommender-systems-pipeline-monitoring-getyourguide)
 - [ ] [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
 - [ ] [Stitching together spaces for query-based recommendations](https://multithreaded.stitchfix.com/blog/2021/08/13/stitching-together-spaces-for-query-based-recommendations/)
 - [X] [A Complete Guide To Recommender Systems — Tutorial with Sklearn, Surprise, Keras, Recommenders](https://towardsdatascience.com/a-complete-guide-to-recommender-system-tutorial-with-sklearn-surprise-keras-recommender-5e52e8ceace1)
 - [X] [Intro to Recommender Systems: Collaborative Filtering](https://www.ethanrosenthal.com/2015/11/02/intro-to-collaborative-filtering/)
 - [X] [Comprehensive Guide To Approximate Nearest Neighbors Algorithms](https://towardsdatascience.com/comprehensive-guide-to-approximate-nearest-neighbors-algorithms-8b94f057d6b6)
+- [ ] [Mozrt, a Deep Learning Recommendation System Empowering Walmart Store Associates](https://medium.com/walmartglobaltech/mozrt-a-deep-learning-recommendation-system-empowering-walmart-store-associates-with-a-5d42c08d88da) `Walmart` `2021`
+- [ ] [Near real-time features for near real-time personalization](https://engineering.linkedin.com/blog/2022/near-real-time-features-for-near-real-time-personalization) `LinkedIn` `2022`
+- [ ] [Building a Deep Learning Based Retrieval System for Personalized Recommendations](https://tech.ebayinc.com/engineering/building-a-deep-learning-based-retrieval-system-for-personalized-recommendations/) `eBay` `2022`
 
 
 ### Books
