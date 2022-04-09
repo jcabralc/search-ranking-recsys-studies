@@ -138,6 +138,7 @@ Dimensionality Reduction](http://infolab.stanford.edu/~ullman/mmds/ch11.pdf)
 ### Papers
 - [ ] [Latent Factor Models for Recommender Systems and Market
 Segmentation Through Clustering](https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1491255524283942&disposition=inline#:~:text=Recommender%20systems%20were%20introduced%20to,mendations%20on%20products%20or%20services.&text=Latent%20factor%20models%20factorize%20user,user%20and%20item%20feature%20vectors.)
+- [X] [Personalized complementary product recommendation](https://www.amazon.science/publications/personalized-complementary-product-recommendation) `Amazon` `2022`
 
 ### Presentations & Talks
 - [ ] The ACM Conference Series on Recommender Systems
