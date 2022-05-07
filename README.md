@@ -22,6 +22,7 @@ My journey in learning about Search & ranking universe, and with this, become be
     - [x] [Part #3](https://hughewilliams.com/2012/05/15/ranking-at-ebay-part-3/)
 - [x] [eBay Makes Promoted Listings in Search Results More Relevant and Dynamic](https://tech.ebayinc.com/product/ebay-makes-promoted-listings-in-search-results-more-relevant-and-dynamic/) `eBay`
 - [x] [eBay Makes Search More Efficient Through Personalization](https://tech.ebayinc.com/product/ebay-makes-search-more-efficient-through-personalization/) `eBay`
+- [X] [Diversity in Search](https://tech.ebayinc.com/engineering/diversity-in-search/) `eBay` `2014`
 
 ## Ranking
 
@@ -56,7 +57,8 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [Siamese BERT-based Model for Web Search Relevance Ranking](https://arxiv.org/abs/2112.01810) ([Code](https://github.com/seznam/DaReCzech)) `Seznam` `2021`
 - [ ] [SearchSage: Learning Search Query Representations at Pinterest](https://medium.com/pinterest-engineering/searchsage-learning-search-query-representations-at-pinterest-654f2bb887fc) `Pinterest` `2021`
 - [ ] [Search Journey Towards Better Experimentation Practices](https://engineering.atspotify.com/2022/02/search-journey-towards-better-experimentation-practices/) `Spotify` `2022`
-
+- [X] [Searching for Goldilocks](https://dtunkelang.medium.com/searching-for-goldilocks-12cb21c7d036)
+- [X] [Thoughts on Search Result Diversity](https://dtunkelang.medium.com/thoughts-on-search-result-diversity-1df54cb5bf4a)
 
 ### Books
 - [x] [Learning to Rank for Information Retrieval and Natural Language Processing - Hang Li](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
@@ -79,6 +81,7 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [Ranking Measures and Loss Functions in Learning to Rank](https://proceedings.neurips.cc/paper/2009/file/2f55707d4193dc27118a0f19a1985716-Paper.pdf)
 - [ ] [Debiased Explainable Pairwise Ranking from Implicit Feedback](https://arxiv.org/pdf/2107.14768.pdf)
 - [ ] [Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality](https://arxiv.org/pdf/2107.13876.pdf)
+- [ ] [How to Measure and Mitigate Position Bias](https://eugeneyan.com//writing/position-bias/)
  
 
 ### Presentations & Talks
@@ -127,6 +130,8 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [Mozrt, a Deep Learning Recommendation System Empowering Walmart Store Associates](https://medium.com/walmartglobaltech/mozrt-a-deep-learning-recommendation-system-empowering-walmart-store-associates-with-a-5d42c08d88da) `Walmart` `2021`
 - [ ] [Near real-time features for near real-time personalization](https://engineering.linkedin.com/blog/2022/near-real-time-features-for-near-real-time-personalization) `LinkedIn` `2022`
 - [ ] [Building a Deep Learning Based Retrieval System for Personalized Recommendations](https://tech.ebayinc.com/engineering/building-a-deep-learning-based-retrieval-system-for-personalized-recommendations/) `eBay` `2022`
+- [X] [Real World Recommendation System - Part 1](https://blog.fennel.ai/p/real-world-recommendation-system?s=r)
+- [X] [Counterfactual Evaluation for Recommendation Systems](https://eugeneyan.com/writing/counterfactual-evaluation/)
 
 
 ### Books
@@ -144,4 +149,5 @@ Segmentation Through Clustering](https://etd.ohiolink.edu/apexprod/rws_etd/send_
 - [ ] The ACM Conference Series on Recommender Systems
     - [ ] [RecSys 2020](https://www.youtube.com/watch?v=Xm0uUu3RZDM&list=PLaZufLfJumb-cVIEsyg4CFocuq4WsvjED&ab_channel=ACMRecSys)
 - [X] [An Approach to Data Quality for Netflix Personalization Systems](https://www.youtube.com/watch?v=t7vHpA39TXM) `Netflix` `2020`
-- [X] `Meetup` [[Meetup com a Globo] Uso da Recomendação e Experimentação na Globo](https://www.youtube.com/watch?v=3iXXTYZqgtQ&ab_channel=MulheresemIA)
+- [X] [[Meetup com a Globo] Uso da Recomendação e Experimentação na Globo](https://www.youtube.com/watch?v=3iXXTYZqgtQ&ab_channel=MulheresemIA) `Globo` `2022`
+- [ ] [Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances](https://sites.google.com/cornell.edu/recsys2021tutorial) `RecSys2021 Tutorial`
