@@ -41,6 +41,7 @@ My journey in learning about Search & ranking universe, and with this, become be
     - [x] [Advanced Functionality](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/advanced-functionality.html)
     - [x] [FAQ](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/faq.html)
 - [x] [Learning to Rank journey: the logbook](https://inside.getyourguide.com/blog/2018/9/21/relevant/learning-to-rank-journey-the-logbook)
+- [] [What Is a Judgment List?](https://softwaredoug.com/blog/2021/02/21/what-is-a-judgment-list.html)
 
 
 
@@ -59,6 +60,8 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [Search Journey Towards Better Experimentation Practices](https://engineering.atspotify.com/2022/02/search-journey-towards-better-experimentation-practices/) `Spotify` `2022`
 - [X] [Searching for Goldilocks](https://dtunkelang.medium.com/searching-for-goldilocks-12cb21c7d036)
 - [X] [Thoughts on Search Result Diversity](https://dtunkelang.medium.com/thoughts-on-search-result-diversity-1df54cb5bf4a)
+- [X] [Diversity vs. Relevance in Search Systems](https://opensourceconnections.com/blog/2019/09/05/diversity-vs-relevance/)
+- [X] [Deriving Search Relevance Judgments from an A/B Test](https://softwaredoug.com/blog/2022/06/08/deriving-relevance-judgments-from-an-a-b-test.html)
 
 ### Books
 - [x] [Learning to Rank for Information Retrieval and Natural Language Processing - Hang Li](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
@@ -82,6 +85,10 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [Debiased Explainable Pairwise Ranking from Implicit Feedback](https://arxiv.org/pdf/2107.14768.pdf)
 - [ ] [Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality](https://arxiv.org/pdf/2107.13876.pdf)
 - [ ] [How to Measure and Mitigate Position Bias](https://eugeneyan.com//writing/position-bias/)
+- [ ] [Applying Deep Learning To Airbnb Search](https://arxiv.org/pdf/1810.09591v2.pdf)  `Airbnb` `2018`
+- [ ] [Improving Deep Learning For Airbnb Search](https://arxiv.org/pdf/2002.05515v1.pdf) `Airbnb` `2020`
+- [ ] [Managing Diversity in Airbnb Search](https://arxiv.org/pdf/2004.02621.pdf) `Airbnb` `2020`
+- [ ] [Amazon Search: The joy of ranking products](https://www.amazon.science/publications/amazon-search-the-joy-of-ranking-products) [Paper](https://assets.amazon.science/89/cd/34289f1f4d25b5857d776bdf04d5/amazon-search-the-joy-of-ranking-products.pdf) [video](https://www.youtube.com/watch?v=NLrhmn-EZ88) `Amazon` `2016`
  
 
 ### Presentations & Talks
@@ -97,6 +104,7 @@ My journey in learning about Search & ranking universe, and with this, become be
     - [ ] [Part 4](https://www.youtube.com/watch?v=F4D08uU3mPA&ab_channel=AssociationforComputingMachinery%28ACM%29)
     - [ ] [Part 5](https://www.youtube.com/watch?v=FYil7LtpyN0&ab_channel=AssociationforComputingMachinery%28ACM%29)
     - [ ] [Part 6](https://www.youtube.com/watch?v=kJCnX2xTwFE&ab_channel=AssociationforComputingMachinery%28ACM%29)
+- [X] [Airbnb Search Architecture](https://www.youtube.com/watch?v=qeLekzZc3XU) `Airbnb` `2015`
 
 
 ### Experiments
