@@ -9,13 +9,14 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [x] [Clicks in search](https://hughewilliams.com/2012/04/12/clicks-in-search/)
 - [x] [Ranking vs. Relevance](https://dtunkelang.medium.com/ranking-vs-relevance-ba672c79625e)
 
-### Metrics
+### Metrics & Evaluation
 
 - [x] [Evaluation Metrics for Ranking problems: Introduction and Examples](https://queirozf.com/entries/evaluation-metrics-for-ranking-problems-introduction-and-examples)
 - [x] [MRR vs MAP vs NDCG: Rank-Aware Evaluation Metrics And When To Use Them](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
 - [x] [Evaluate your Recommendation Engine using NDCG](https://towardsdatascience.com/evaluate-your-recommendation-engine-using-ndcg-759a851452d1)
 - [x] [Measuring Search Relevance](https://hughewilliams.com/2014/10/11/measuring-search-relevance/)
 - [ ] [Ranking Evaluation Metrics for Recommender Systems](https://towardsdatascience.com/ranking-evaluation-metrics-for-recommender-systems-263d0a66ef54)
+- [X] [Explaining Learning to Rank Models with Tree Shap](https://sease.io/2020/07/explaining-learning-to-rank-models-with-tree-shap.html)
 
 ### Industries Examples
 
