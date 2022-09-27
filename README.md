@@ -86,7 +86,12 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [Ranking Measures and Loss Functions in Learning to Rank](https://proceedings.neurips.cc/paper/2009/file/2f55707d4193dc27118a0f19a1985716-Paper.pdf)
 - [ ] [Debiased Explainable Pairwise Ranking from Implicit Feedback](https://arxiv.org/pdf/2107.14768.pdf)
 - [ ] [Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality](https://arxiv.org/pdf/2107.13876.pdf)
-- [ ] [How to Measure and Mitigate Position Bias](https://eugeneyan.com//writing/position-bias/)
+- [X] [How to Measure and Mitigate Position Bias](https://eugeneyan.com//writing/position-bias/)
+- [ ] [Learning to Rank with Selection Bias in Personal Search](https://static.googleusercontent.com/media/research.google.com/pt-BR//pubs/archive/45286.pdf)
+- [ ]  [Position Bias Estimation for Unbiased Learning to Rank in Personal Search](https://static.googleusercontent.com/media/research.google.com/pt-BR//pubs/archive/46485.pdf)
+- [ ] [Minimally Invasive Randomization for Collecting Unbiased Preferences from Clickthrough Logs](https://arxiv.org/abs/cs/0605037)
+- [ ] [An experimental comparison of click position-bias models](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.112.1288&rep=rep1&type=pdf)
+- [ ] [Unbiased Learning-to-Rank with Biased Feedback](https://arxiv.org/abs/1608.04468)
 - [X] [Applying Deep Learning To Airbnb Search](https://arxiv.org/pdf/1810.09591v2.pdf)  `Airbnb` `2018`
 - [ ] [Improving Deep Learning For Airbnb Search](https://arxiv.org/pdf/2002.05515v1.pdf) `Airbnb` `2020`
 - [ ] [Managing Diversity in Airbnb Search](https://arxiv.org/pdf/2004.02621.pdf) `Airbnb` `2020`
