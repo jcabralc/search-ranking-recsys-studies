@@ -173,3 +173,4 @@ Segmentation Through Clustering](https://etd.ohiolink.edu/apexprod/rws_etd/send_
 - [X] [An Approach to Data Quality for Netflix Personalization Systems](https://www.youtube.com/watch?v=t7vHpA39TXM) `Netflix` `2020`
 - [X] [[Meetup com a Globo] Uso da Recomendação e Experimentação na Globo](https://www.youtube.com/watch?v=3iXXTYZqgtQ&ab_channel=MulheresemIA) `Globo` `2022`
 - [ ] [Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances](https://sites.google.com/cornell.edu/recsys2021tutorial) `RecSys2021 Tutorial`
+- [X] [Building End-to-End Recommender Systems with Nvidia Merlin](https://www.youtube.com/watch?v=Q9lgpdXfyxk&ab_channel=AICamp) `Nvidia`
