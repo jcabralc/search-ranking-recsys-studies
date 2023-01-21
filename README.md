@@ -63,6 +63,9 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [X] [Thoughts on Search Result Diversity](https://dtunkelang.medium.com/thoughts-on-search-result-diversity-1df54cb5bf4a)
 - [X] [Diversity vs. Relevance in Search Systems](https://opensourceconnections.com/blog/2019/09/05/diversity-vs-relevance/)
 - [X] [Deriving Search Relevance Judgments from an A/B Test](https://softwaredoug.com/blog/2022/06/08/deriving-relevance-judgments-from-an-a-b-test.html)
+- [ ] [Real-time machine learning: challenges and solutions](https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
+- [X] [An Introduction to Search Quality](https://opensourceconnections.com/blog/2018/11/19/an-introduction-to-search-quality/)
+- [X] [Approaches to field boost tuning with Learning to Rank](https://opensourceconnections.com/blog/2022/12/16/approaches-to-field-boost-tuning-with-learning-to-rank/)
 
 ### Books
 
@@ -97,6 +100,9 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [Managing Diversity in Airbnb Search](https://arxiv.org/pdf/2004.02621.pdf) `Airbnb` `2020`
 - [ ] [Amazon Search: The joy of ranking products](https://www.amazon.science/publications/amazon-search-the-joy-of-ranking-products) [Paper](https://assets.amazon.science/89/cd/34289f1f4d25b5857d776bdf04d5/amazon-search-the-joy-of-ranking-products.pdf) [video](https://www.youtube.com/watch?v=NLrhmn-EZ88) `Amazon` `2016`
 - [ ] [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://dl.acm.org/doi/pdf/10.1145/3219819.3219885) `Airbnb` `2018`
+- [ ] [Enhancing User Behavior Sequence Modeling by Generative Tasks for Session Search](https://arxiv.org/pdf/2208.10846.pdf) `2022`
+- [ ] [Multi-Objective Personalized Product Retrieval in Taobao Search](https://arxiv.org/ftp/arxiv/papers/2210/2210.04170.pdf)
+- [ ] [Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning](https://arxiv.org/pdf/2006.02282.pdf) `2020`
 
 ### Presentations & Talks
 
@@ -114,6 +120,8 @@ My journey in learning about Search & ranking universe, and with this, become be
   - [ ] [Part 6](https://www.youtube.com/watch?v=kJCnX2xTwFE&ab_channel=AssociationforComputingMachinery%28ACM%29)
 - [X] [Airbnb Search Architecture](https://www.youtube.com/watch?v=qeLekzZc3XU) `Airbnb` `2015`
 - [ ] [Measuring and Optimizing Findability in e-commerce Search (MICES 2019)](https://www.youtube.com/watch?v=xgHf9k272nc&ab_channel=MIx-CampE-commerceSearch)
+- [X] [Reddit Intelligence Group - Search, Relevance, Discovery, Data Engineering and Anti-Evil](https://www.youtube.com/watch?v=_WTyqS2Eb2E&ab_channel=Lucidworks)
+- [ ] [The Potential for Personalization in Search - Susan Dumais](https://www.youtube.com/watch?v=264OWmOAqqk&t=394s)
 
 ### Experiments
 
@@ -165,6 +173,7 @@ Dimensionality Reduction](http://infolab.stanford.edu/~ullman/mmds/ch11.pdf)
 - [ ] [Latent Factor Models for Recommender Systems and Market
 Segmentation Through Clustering](https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1491255524283942&disposition=inline#:~:text=Recommender%20systems%20were%20introduced%20to,mendations%20on%20products%20or%20services.&text=Latent%20factor%20models%20factorize%20user,user%20and%20item%20feature%20vectors.)
 - [X] [Personalized complementary product recommendation](https://www.amazon.science/publications/personalized-complementary-product-recommendation) `Amazon` `2022`
+- [ ] [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/pt-BR//pubs/archive/45530.pdf) `YouTube` `2016`
 
 ### Presentations & Talks
 
