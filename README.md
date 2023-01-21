@@ -66,6 +66,7 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [Real-time machine learning: challenges and solutions](https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
 - [X] [An Introduction to Search Quality](https://opensourceconnections.com/blog/2018/11/19/an-introduction-to-search-quality/)
 - [X] [Approaches to field boost tuning with Learning to Rank](https://opensourceconnections.com/blog/2022/12/16/approaches-to-field-boost-tuning-with-learning-to-rank/)
+- [X] [How LambdaMART works - optimizing product ranking goals](https://softwaredoug.com/blog/2021/11/28/how-lammbamart-works.html)
 
 ### Books
 
