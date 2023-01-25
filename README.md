@@ -67,6 +67,7 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [X] [An Introduction to Search Quality](https://opensourceconnections.com/blog/2018/11/19/an-introduction-to-search-quality/)
 - [X] [Approaches to field boost tuning with Learning to Rank](https://opensourceconnections.com/blog/2022/12/16/approaches-to-field-boost-tuning-with-learning-to-rank/)
 - [X] [How LambdaMART works - optimizing product ranking goals](https://softwaredoug.com/blog/2021/11/28/how-lammbamart-works.html)
+- [X] [LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth.html)
 
 ### Books
 
