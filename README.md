@@ -124,6 +124,7 @@ My journey in learning about Search & ranking universe, and with this, become be
 - [ ] [Measuring and Optimizing Findability in e-commerce Search (MICES 2019)](https://www.youtube.com/watch?v=xgHf9k272nc&ab_channel=MIx-CampE-commerceSearch)
 - [X] [Reddit Intelligence Group - Search, Relevance, Discovery, Data Engineering and Anti-Evil](https://www.youtube.com/watch?v=_WTyqS2Eb2E&ab_channel=Lucidworks)
 - [ ] [The Potential for Personalization in Search - Susan Dumais](https://www.youtube.com/watch?v=264OWmOAqqk&t=394s)
+- [X] [Overcoming position and presentation biases in search and recommender system](https://www.youtube.com/watch?v=PqbYdDiwKBY&t=30s&ab_channel=TolokaAI)
 
 ### Experiments
 
